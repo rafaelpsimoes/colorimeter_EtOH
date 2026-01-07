@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this repository (hardware, firmware, or software), please cite the associated manuscript."
+title: "Low-Cost Portable Colorimeter for Indirect Determination of Ethanol Concentration via Dichromate Oxidation"
+authors:
+  - family-names: Schnepper
+    given-names: Amanda Piveta
+  - family-names: da Silva
+    given-names: Martin Kássio Leme
+  - family-names: Sousa
+    given-names: Guilherme dos Santos
+  - family-names: Rodokas
+    given-names: José Eduardo Petit
+  - family-names: Azevedo Neto
+    given-names: Nilton Francelosi
+  - family-names: Simões
+    given-names: Rafael Plana
+repository-code: "https://github.com/XXXX"
+url: "https://github.com/XXXX"
+abstract: "Open-hardware package for a low-cost portable colorimeter enabling indirect ethanol determination via dichromate oxidation, including PCB files, 3D-printable enclosure, Arduino firmware, and Python analysis scripts."
+keywords:
+  - colorimetry
+  - ethanol
+  - open hardware
+  - low-cost instrumentation
+  - Arduino
+  - dichromate oxidation
+preferred-citation:
+  type: article
+  title: "Low-Cost Portable Colorimeter for Indirect Determination of Ethanol Concentration via Dichromate Oxidation"
+  authors:
+    - family-names: Schnepper
+      given-names: Amanda Piveta
+    - family-names: da Silva
+      given-names: Martin Kássio Leme
+    - family-names: Sousa
+      given-names: Guilherme dos Santos
+    - family-names: Rodokas
+      given-names: José Eduardo Petit
+    - family-names: Azevedo Neto
+      given-names: Nilton Francelosi
+    - family-names: Simões
+      given-names: Rafael Plana
+  journal: "Hardware"
+  publisher: "MDPI"
+  year: 2026
+  doi: "TO_BE_ADDED_AFTER_PUBLICATION"
