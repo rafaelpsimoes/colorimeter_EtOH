@@ -45,7 +45,7 @@ Ethanol concentration is determined **indirectly** via its oxidation in acidic m
 │ └── example_data/ # Example input files and formatting templates  
 │  
 ├── documentation/  
-│ └── assembly_guide.pdf # Device assembly instructions  
+│ └── assembly_guide # Device assembly illustrations  
 │  
 └── README.md  
 
