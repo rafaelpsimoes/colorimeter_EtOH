@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-01-13T16:11:03Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "espec02"
+        },
+        "Owner": "Guilherme Sousa <guiss13@hotmail.com>",
+        "Size": {
+            "X": 70.615163,
+            "Y": 24.972963
+        }
+    }
+}
